@@ -8,7 +8,7 @@ Este projeto é um carrossel interativo que exibe uma galeria de controles de vi
 
 ### 🚀 Demonstração
 
-Veja uma demonstração ao vivo do carrossel .
+Veja uma demonstração ao vivo do carrossel aqui: https://www.linkedin.com/posts/pietra-costa-dev_novo-projeto-no-ar-carrossel-de-controles-activity-7232405902329298944-CJhw?utm_source=share&utm_medium=member_desktop
 
 ![image](https://github.com/user-attachments/assets/8c893e15-6e64-439b-8d5f-ddad177574bd)
 
