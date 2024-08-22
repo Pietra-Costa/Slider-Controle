@@ -16,6 +16,5 @@ Veja uma demonstração ao vivo do carrossel .
 ### 💡 Funcionalidades
 
 + Carrossel Interativo: Navegue pelos controles de videogame com botões de próximo e anterior.
-+ Design Responsivo: Funciona bem em dispositivos móveis e desktops.
 + Transições Suaves: Animações suaves para uma experiência de usuário agradável.
 + Fácil Personalização: Simples de ajustar estilos e adicionar novas imagens.
